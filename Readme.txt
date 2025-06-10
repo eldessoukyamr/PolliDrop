@@ -1,0 +1,2 @@
+Suggested Project Description:
+PolliDrop is a flower pollination simulation game built for the MSP432 microcontroller using C and FSM design. Players control a circular "bee" using a joystick to collect falling pollen and pollinate flowers before they disappear. The game includes interactive menus, score tracking, and dynamic visuals—all rendered in real time on embedded hardware.
